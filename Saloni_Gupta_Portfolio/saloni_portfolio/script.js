@@ -1,1 +1,0 @@
-// JavaScript animations will be here
